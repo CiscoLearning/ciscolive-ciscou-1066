@@ -1,0 +1,51 @@
+{
+  "_how_to_use": "Edit the values below as you study. Leave a value as \"\" and Claude will ask you for it. Re-upload this file to the project after each edit.",
+
+  "exam": {
+    "exam_name": "CCNA Automation (200-901 CCNAAUTO v1.1)",
+    "blueprint_url": "https://learningcontent.cisco.com/documents/marketing/exam-topics/200-901-CCNAAUTO_v.1.1.pdf",
+    "domains": {
+      "1.0 Software Development and Design": "15%",
+      "2.0 Understanding and Using APIs": "20%",
+      "3.0 Cisco Platforms and Development": "15%",
+      "4.0 Application Deployment and Security": "15%",
+      "5.0 Infrastructure and Automation": "20%",
+      "6.0 Network Fundamentals": "15%"
+    },
+    "question_types": "multiple choice, drag-and-drop, performance-based",
+    "duration": "120 minutes"
+  },
+
+  "schedule": {
+    "date": "",
+    "x_hours": ""
+  },
+
+  "study_partner": {
+    "study_material": "",
+    "study_tool": "flashcards",
+    "add_specific_concept_or_sequence": "the HTTP response code classes (1xx to 5xx)",
+    "two_similar_concepts": "RESTCONF vs NETCONF"
+  },
+
+  "exam_simulator": {
+    "list_topics": [],
+    "x": 10,
+    "question_style_extra": "Include questions that show a short Python script, API request, or JSON/YAML snippet and ask what it does or what is wrong with it."
+  },
+
+  "lab_architect": {
+    "lab_role": "CCNA Automation lab instructor with deep knowledge of CML, Python, REST APIs, and model-driven programmability (YANG, NETCONF, RESTCONF)",
+    "lab_focus": "use Python and RESTCONF to read or change an interface configuration",
+    "lab_nodes": "a router image that supports NETCONF/RESTCONF, and an Ubuntu or Desktop node with Python as the automation workstation",
+    "max_nodes": 5
+  },
+
+  "learning_tracker": {
+    "x_hours": "",
+    "specific_topics": "",
+    "confidence_1_to_10": "",
+    "struggled_with": "",
+    "felt_strong_in": ""
+  }
+}
